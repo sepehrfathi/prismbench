@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# App config & secrets
+config.php
+
+# Runtime data (user records, payments, wallet, conversations, logs)
+data/*.json
+data/*.jsonl
+
+# Backups
+*.zip
+*.sql
+*.bak
+backups/
+
+# Logs
+*.log
